@@ -1,5 +1,5 @@
 # DICE-GAME-HTML-CSS-JS-
-
+ a small project to implement js :)
 <!DOCTYPE html>
 
 <html lang="en" dir="ltr">
